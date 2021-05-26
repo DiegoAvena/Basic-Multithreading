@@ -1,6 +1,10 @@
 # Basic-Multithreading
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3jxXWnuu82A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/3jxXWnuu82A" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 
 ## Overview
 Demonstrates the use of multithreading in Java by running 2 threads: 1 thread prints Marco every 10 secs for a total of 10 times, and another thread prints Polo with a newline character appended every 10 secs for a total of 10 times. There are no measures taken to synchronize these 2 threads.
