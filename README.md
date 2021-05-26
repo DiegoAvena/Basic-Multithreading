@@ -1,5 +1,7 @@
 # Basic-Multithreading
 
+![marcoAndPolo](https://user-images.githubusercontent.com/43594702/119709843-841b4300-be12-11eb-88fe-ebd0ba4789de.png)
+
 [See it in action!](https://www.youtube.com/watch?v=3jxXWnuu82A)
 
 ## Overview
